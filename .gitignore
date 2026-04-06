@@ -1,0 +1,82 @@
+# Visual Studio Build Output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio User Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Build Results
+[Dd]ebug*/
+[Rr]elease*/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# MSTest
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResult.xml
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Error Files
+*.err
+
+# Misc
+*.cache
+*.bak
+*.tmp
+*.temp
+*.orig
+~$*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Crash dumps
+*.dmp
